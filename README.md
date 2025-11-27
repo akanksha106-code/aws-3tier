@@ -1,7 +1,7 @@
 
 # AWS 3-Tier Architecture
 
-## Project Executive Summary
+## Project Summary
 
 **Problem**
 Monolithic architectures often host database, application, and web layers on single instances. This creates Single Points of Failure (SPoF), limits scalability, and poses security risks by exposing the database layer to the public internet.
